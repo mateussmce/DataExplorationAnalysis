@@ -45,3 +45,9 @@ latexmk.out
 # Directories
 /_minted*
 /texput.*
+
+# =========================
+# Python - build files
+# =========================
+EDA_Assignment1_2026_1/python/src/question_list/output
+EDA_Assignment1_2026_1/python/src/question_list/__pycache__
